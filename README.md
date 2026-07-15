@@ -33,4 +33,7 @@ Generates cpptraj input files and a SLURM submission script for hydrogen-bond an
 
 Collects hydrogen-bond measurements from all replicate simulations into a single CSV file. Missing replicates are automatically padded with NaN values, allowing consistent downstream analysis.
 
+Output:
 
+
+q_hbond_30rep.csv
