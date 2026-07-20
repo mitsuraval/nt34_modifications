@@ -8,6 +8,7 @@ from itertools import chain
 #   1. Set the paths below to your simulation directories.
 #   2. Adjust the replicate range if necessary.
 # ---------------------------------------------------------------------
+# This code is modified from the code published by Dalgarno et al. (2022) and Raval et al. (2026)
 
 #################
 # JOB VARIABLES #
